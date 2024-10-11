@@ -1,9 +1,0 @@
-[Desktop Entry]
-Version=1.0
-Name=spoofdpi
-Exec=/home/user/Vidgex/spoofdpi 
-#пропишите свой путь до папки (Exec)
-Type=Application
-Terminal=false
-Categories=Application;
-
